@@ -1,6 +1,6 @@
 # Google Spreadhsheet Api - Update
 
-A [Supercode](http://gosupercode.com) function that update google spreadsheet data.
+A [Supercode](http://gosupercode.com) function that append google spreadsheet data.
 Still developing for other methods of google spreadsheet api.
 
 ## Server Usage
